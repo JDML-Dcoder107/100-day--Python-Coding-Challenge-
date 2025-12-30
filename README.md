@@ -143,6 +143,6 @@ This will compile the 100 day progress on studying the roadmap of python program
 
 ---
 
-Start Date: __________
+Start Date: 30/12/2025
 
 End Date: __________
