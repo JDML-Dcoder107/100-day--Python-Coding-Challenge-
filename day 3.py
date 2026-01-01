@@ -1,3 +1,4 @@
+# Day 3: String Manipulation and Methods
 name = "John Doe"
 qoute = '"The best way to get started is to quit talking and begin doing."'
 author = "- Walt Disney"
